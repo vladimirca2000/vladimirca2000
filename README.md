@@ -1,5 +1,9 @@
-<h1 style="display: inline_block">Vladimir Carlos Alves<h1>
-
+# Vladimir Carlos Alves
+<div>
+    <h2>Formação</h2>
+    <p> Graduação: Bacharel em Sistema de Informação 07/2010 -> 06/2014</p>
+    <p> Pós Graduação em Inteligencia Artificial e Machine Learning 11/2023 -> 09/2024</p>
+</div>
 <h2 style="display: inline_block">Desenvolvedor de Sistemas FullStack</h2>
 <br/>
 <div>
