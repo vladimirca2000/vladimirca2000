@@ -19,11 +19,11 @@
 </div>
 <br/>
  <h2 style="display: inline_block">Linguagem que tenho conhecimento:</h2> 
- <div style="display: inline_block"><br/> 
-    <img align="center" alt="C#" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/c--4.svg">
-    <img align="center" alt="VB6" height="30" width="40" src="./imagem/VB6.jpg">
-    # JavaScript
-    # TypeScript
-    # Python
+ <div style="display: inline_block"> 
+    <div><img align="center" alt="C#" height="20" width="20" src="./imagem/cSharp.png"> Microsoft C#</div>
+    <div><img align="center" alt="VB6" height="20" width="20" src="./imagem/VB6.jpg"> Microsoft Visual Basic 6</div>
+    <div><img align="center" alt="JS" height="20" width="20" src="./imagem/JavaScript.png"> JavaScript</div>
+    <div><img align="center" alt="TS" height="20" width="20" src="./imagem/Typescript.svg.png"> TypeScript</div>
+    <div><img align="center" alt="Python" height="20" width="20" src="./imagem/python.jpg"> Python</div>
  </div>
  <br/>
