@@ -8,8 +8,6 @@
 </div>
 <br/>
 <div>
-    <a href="https://github.com/vladimirca2000">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vladimirca2000&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladimirca2000&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 <br>
@@ -20,9 +18,9 @@
     <img align="center" alt="Vladimir-Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </div>
 <br/>
- ## Linguagem que tenho conhecimento:
+ ## ⚙️Linguagem que tenho conhecimento:
  <div style="display: inline_block"><br/> 
-    # C#
+    <img align="center" alt="C#" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/c--4.svg">
     # Visual Basic 6
     # JavaScript
     # TypeScript
