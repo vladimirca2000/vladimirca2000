@@ -1,10 +1,12 @@
 # Vladimir Carlos Alves
+<span>Desenvolvedor de Sistemas FullStack<span>
+
 <div>
-    <h2>Formação</h2>
+    <h3 style="text-decoration: underline" >Formação</h3>
     <p> Graduação: Bacharel em Sistema de Informação 07/2010 -> 06/2014</p>
-    <p> Pós Graduação em Inteligencia Artificial e Machine Learning 11/2023 -> 09/2024</p>
+    <p> Pós Graduação em Inteligência Artificial e Machine Learning 11/2023 -> 09/2024</p>
 </div>
-<h2 style="display: inline_block">Desenvolvedor de Sistemas FullStack</h2>
+
 <br/>
 <div>
     <a href="https://www.linkedin.com/in/vladimirca2000" target="_blank"><img src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
