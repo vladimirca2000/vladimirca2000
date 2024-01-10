@@ -21,7 +21,7 @@
  ## ⚙️Linguagem que tenho conhecimento:
  <div style="display: inline_block"><br/> 
     <img align="center" alt="C#" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/c--4.svg">
-    # Visual Basic 6
+    <img align="center" alt="VB6" height="30" width="40" src="./imagem/VB6.jpg">
     # JavaScript
     # TypeScript
     # Python
