@@ -1,7 +1,7 @@
 <h1 style="display: inline_block">Vladimir Carlos Alves<h1>
 
-:computer: Analista de Sistemas FullStack<br/>
-
+<h2 style="display: inline_block">Desenvolvedor de Sistemas FullStack</h2>
+<br/>
 <div>
     <a href="https://www.linkedin.com/in/vladimirca2000" target="_blank"><img src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href = "mailto:vladimirca2000@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -13,13 +13,13 @@
 <br>
  <h2 style="display: inline_block">Ferramentas que uso:</h2> 
  <div style="display: inline_block"><br/> 
-    <img align="center" alt="Visual_Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
-    <img align="center" alt="Vladimir-Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-    <img align="center" alt="Vladimir-Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+    <img align="center" alt="Visual_Studio" height="40" width="80" src="./imagem/visualStudio.jpg">
+    <img align="center" alt="Visual_Studio_Code" height="40" width="80" src="./imagem/visualStudioCode.jpg">
+    <img align="center" alt="Git-Github" height="40" width="80" src="./imagem/GitGitHub.jpg">
 </div>
 <br/>
  <h2 style="display: inline_block">Linguagem que tenho conhecimento:</h2> 
- <div style="display: inline_block"> 
+ <div style="display: inline_block"><br/> 
     <div><img align="center" alt="C#" height="20" width="20" src="./imagem/cSharp.png"> Microsoft C#</div>
     <div><img align="center" alt="VB6" height="20" width="20" src="./imagem/VB6.jpg"> Microsoft Visual Basic 6</div>
     <div><img align="center" alt="JS" height="20" width="20" src="./imagem/JavaScript.png"> JavaScript</div>
