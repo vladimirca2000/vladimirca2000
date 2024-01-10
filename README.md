@@ -26,5 +26,9 @@
 
  ## Linguagem que tenho conhecimento:
  <div style="display: inline_block"><br/> 
-
+    # C#
+    # Visual Basic 6
+    # JavaScript
+    # TypeScript
+    # Python
  </div><br/>
