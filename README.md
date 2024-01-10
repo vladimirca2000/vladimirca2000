@@ -22,12 +22,21 @@
     <img align="center" alt="Git-Github" height="40" width="80" src="./imagem/GitGitHub.jpg">
 </div>
 <br/>
- <h2 style="display: inline_block">Linguagem que tenho conhecimento:</h2> 
+ <h2 style="display: inline_block">Linguagem de Programação:</h2> 
  <div style="display: inline_block"><br/> 
     <div><img align="center" alt="C#" height="20" width="20" src="./imagem/cSharp.png"> Microsoft C#</div>
     <div><img align="center" alt="VB6" height="20" width="20" src="./imagem/VB6.jpg"> Microsoft Visual Basic 6</div>
     <div><img align="center" alt="JS" height="20" width="20" src="./imagem/JavaScript.png"> JavaScript</div>
     <div><img align="center" alt="TS" height="20" width="20" src="./imagem/Typescript.svg.png"> TypeScript</div>
     <div><img align="center" alt="Python" height="20" width="20" src="./imagem/python.jpg"> Python</div>
+ </div>
+ <br/>
+<h2 style="display: inline_block">Banco de Dados:</h2> 
+ <div style="display: inline_block"><br/> 
+    <img align="center" alt="SqlServer" height="40" width="80" src="./imagem/SqlServer.jpg">
+    <img align="center" alt="MySql" height="40" width="80" src="./imagem/MySql.jpg">
+    <img align="center" alt="Postgresql" height="40" width="80" src="./imagem/Postgresql.jpg">
+    <img align="center" alt="Oracle" height="40" width="80" src="./imagem/Oracle.jpg">
+    <img align="center" alt="MongoDB" height="40" width="80" src="./imagem/MongoDB.jpg">
  </div>
  <br/>
