@@ -5,6 +5,7 @@
     <h3 style="text-decoration: underline" >Formação</h3>
     <p> Graduação: Bacharel em Sistema de Informação 07/2010 -> 06/2014</p>
     <p> Pós Graduação em Inteligência Artificial e Machine Learning 11/2023 -> 09/2024</p>
+    <p> Pós Graduação em Engenharia da Automação e IoT 01/2024 -> 11/2024</p>
 </div>
 
 <br/>
