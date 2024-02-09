@@ -1,5 +1,5 @@
 # Vladimir Carlos Alves
-<span>Desenvolvedor de Sistemas FullStack<span>
+<spanAnalista >Desenvolvedor de Sistemas FullStack<span>
 
 <div>
     <h3 style="text-decoration: underline" >Formação</h3>
