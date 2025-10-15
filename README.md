@@ -8,6 +8,7 @@
     <p> Pós Graduação em Engenharia da Automação e IoT -> 11/2024</p>
     <p> Graduação: Licenciatura em Geografia -> 11/2024</p>
     <p> Pós Graduação em Docencia do Ensino Superior -> 06/2025</p>
+    <p> Graduação: Engenharia de Controle e automação -> Cursando</p>
 </div>
 
 <br/>
